@@ -1,25 +1,12 @@
-# require_relative 'so_1/studentorder'
-# require_relative 'so_1/so_1getter'
-require_relative 'so'
-
+require_relative 'so' # include SO
 
 class Start
-  # @go=SoGetter.new
-  #
-  @soarray={}
-  for i in 0..5
-  @soarray[i]=SO.new(i)
+  soArray = {} # establish an array
+  for i in 0..2
+    soArray[i] = SO.new(i) # launch i-times SO process
   end
-  puts @soarray
+  soArray.each {|i| puts i} # show the array
+  # puts @soarray[0].husband.surName
 end
 
-start=Start.new
-
-
-#
-# puts "GO: #{@go}"
-
-
-
-# puks=Start.new
 
