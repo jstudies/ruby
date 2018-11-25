@@ -12,8 +12,6 @@ class GrnCheck
     @wife=so.wife
   end
   def checkGRN
-    puts "GRN: #{@husband.surName}, #{@husband.givenName} is OK"
-    puts "GRN: #{@wife.surName}, #{@wife.givenName} is OK"
     return "OK"
   end
 end

@@ -9,5 +9,4 @@ class SO
     @husband = Person.new("Vasya #{id}", "Petrov")
     @wife = Person.new("Olya #{id}", "Petrov")
   end
-
 end
