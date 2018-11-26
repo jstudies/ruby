@@ -4,9 +4,8 @@ class CsvRead
   @db
 
   def process(file)
-    puts file
-    puts 'hello'
-    # @db = {reply: 'CSV-OK'}
-    CSV.read(file)
+    CSV.read(file, {:headers => true, :col_sep => ',', :encoding => 'UTF-8'})
+
+    # CSV.read(file)
   end
 end
