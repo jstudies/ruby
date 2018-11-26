@@ -16,7 +16,7 @@ class ReadXML
     file = Nokogiri::XML(open(xml_file))
     @so_node=file.xpath("student-orders")
     @so_children=@so_node.children.map{|n| [n.name,n.text.strip] if n.elem? }.compact
-    @so_id=@so_children.at('student-order')['so-id'] # <=== brings integer
+    # @so_id=@so_children.at('student-order')['so-id'] # <=== brings integer
 
 
     # @children_nodes = @so_node.map do |node|
