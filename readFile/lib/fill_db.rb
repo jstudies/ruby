@@ -10,14 +10,11 @@ class FillDb
 
   def process(dataArray)
 
-    begin
-      client = Mongo::Client.new(@address)
-      db = client.database
-      puts db.collections.compact
 
-    rescue Exception => e
-      puts e
-    end
+      # client = Mongo::Client.new(@address, where)
+      # db = client.database
+      # puts db.collections.compact
+      # push=
 
 
   end

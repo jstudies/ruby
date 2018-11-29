@@ -17,10 +17,10 @@ class Start
     start = XmlRead.new
     @dataArray = start.process(file)
   end
-  address=param[:mdb]+param[:db]
 
-  start = FillDb.new(address)
-  fill = start.process(@dataArray)
+  address=param[:mdb]+param[:db]
+  # start = FillDb.new(address)
+  # fill = start.process(@dataArray,param[:db])
 
 
 end

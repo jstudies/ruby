@@ -1,547 +1,569 @@
-Date,Account,Payee,Amount,Category,Notes,Verified
-05-Dec-17,Sberbank,Transaction,8603.77,Start,,yes
-05-Dec-17,Tanya Sbr,Transaction,40047.92,Start,,yes
-05-Dec-17,Foreign,Transaction,2700,Start,,yes
-05-Dec-17,Cash,Start,382.9,Start,,yes
-06-Dec-17,Sberbank,Duty Free,-149.66,Alcohol,,yes
-06-Dec-17,Sberbank,Duty Free,-160.79,Alcohol,,yes
-07-Dec-17,Sberbank,McDonald's,-7.83,Dining Out,,yes
-07-Dec-17,Sberbank,Golan Telecom,-17.41,Telecom,,yes
-07-Dec-17,Sberbank,Golan Telecom,-11.03,Telecom,,yes
-08-Dec-17,Sberbank,Amazon,-9.61,Books,Old Man's War,yes
-08-Dec-17,Sberbank,מגה ביער,-99.55,Groceries,,yes
-09-Dec-17,Sberbank,GETT,-62.43,Taxi,,yes
-10-Dec-17,Sberbank,iTunes,-2.57,Online Services,Tanya's iCloud,yes
-11-Dec-17,Sberbank,GETT,-14.31,Taxi,,yes
-13-Dec-17,Discount,Transaction,54800,Start,,yes
-13-Dec-17,Sberbank,מכבי,-43.41,Insurance,,yes
-13-Dec-17,Sberbank,Amazon,-6.4,Books,Forbidden Island,yes
-14-Dec-17,Discount,משרד הקליטה,3800,In Support,,yes
-14-Dec-17,Sberbank,Apple Store,-0.26,Games,Paper Train: Traffic,yes
-14-Dec-17,Sberbank,Paz Hevrat Neft,-55.09,Fuel,,yes
-15-Dec-17,Sberbank,Sberbank,-1.02,Bank Fees,,yes
-16-Dec-17,Sberbank,McDonald's,-35.49,Dining Out,,yes
-17-Dec-17,Sberbank,iTunes,-2.61,Online Services,Dima's iCloud,yes
-17-Dec-17,Sberbank,שופרסל,-71.18,Groceries,,yes
-18-Dec-17,Sberbank,Paz Hevrat Neft,-58.46,Fuel,,yes
-18-Dec-17,Sberbank,Paz Hevrat Neft,-20.24,Fuel,,yes
-19-Dec-17,Sberbank,Tachanat Delek Amal,-39.91,Fuel,,yes
-20-Dec-17,Sberbank,GETT,-10.76,Taxi,,yes
-21-Dec-17,Discount,רב-קו,-171.5,Rav-Kav,,yes
-21-Dec-17,Sberbank,Apple Store,-4,Applications,ProMovie Recorder +,yes
-21-Dec-17,Sberbank,iTunes,-2.61,Online Services,Tanya's iCloud,yes
-21-Dec-17,Sberbank,פרשמרקט,-38.99,Groceries,,yes
-21-Dec-17,Sberbank,Office Depot,-23.14,Ele Accessories,Phone holder to the car,yes
-22-Dec-17,Discount,Cash,-3000,Apt Rent,for payment #12,yes
-22-Dec-17,Sberbank,Reshut Hadoar Mechir,-61.53,Gov Fees,PO Box (?),yes
-22-Dec-17,Sberbank,IKEA,-73.25,Household,,yes
-23-Dec-17,Sberbank,Comix,-7.28,Household,,yes
-24-Dec-17,Sberbank,iTunes,-4.56,Online Services,Dima's iCloud,yes
-24-Dec-17,Sberbank,שופרסל,-44.61,Groceries,,yes
-24-Dec-17,Sberbank,שופרפרם,-45,Groceries,,yes
-24-Dec-17,Sberbank,Office Depot,-28.71,Accessories,Umbrellas,yes
-25-Dec-17,Sberbank,Tachanat Delek Amal,-54.92,Fuel,,yes
-25-Dec-17,Sberbank,Meat Stop,-28.95,Dining Out,,yes
-26-Dec-17,Discount,בנק דיסקונט,-254.79,Bank Fees,,yes
-26-Dec-17,Deposit,Transaction,10000.09,Transfer,,yes
-26-Dec-17,Discount,Transaction,-10000,Transfer,,yes
-26-Dec-17,Sberbank,שופרסל,-6.61,Groceries,,yes
-26-Dec-17,Sberbank,ACE,-23.42,Household,,yes
-26-Dec-17,Sberbank,Liat Hseada,-22.34,Groceries,,yes
-26-Dec-17,Sberbank,Golan Telecom,-11.19,Telecom,,yes
-27-Dec-17,Sberbank,AliExpress,-12.23,Ele Accessories,,yes
-28-Dec-17,Sberbank,Tachanat Delek Amal,-47.25,Fuel,,yes
-28-Dec-17,Sberbank,שופרסל,-25.35,Groceries,,yes
-28-Dec-17,Sberbank,McDonald's,-2.06,Dining Out,,yes
-28-Dec-17,Sberbank,Yalis,-41.2,Dining Out,,yes
-28-Dec-17,Sberbank,ACE,-13.19,Household,,yes
-29-Dec-17,Sberbank,Apple Store,-2.65,Applications,MOLDIV,yes
-30-Dec-17,Sberbank,Amazon,-10.68,Books,Ancillary Mercy (Imperial Radch),yes
-31-Dec-17,Discount,בנק דיסקונט,-0.01,Bank Fees,,yes
-31-Dec-17,Discount,בנק דיסקונט,-14.75,Bank Fees,,yes
-31-Dec-17,Discount,בנק דיסקונט,0.08,In Interest,,yes
-31-Dec-17,Sberbank,Amazon,-10.68,Books,Ancillary Sword (Imperial Radch Book 2),yes
-31-Dec-17,Sberbank,Mazon Vesitonaut,-27.66,Household,,yes
-31-Dec-17,Sberbank,Japanika,-68.28,Dining Out,,yes
-31-Dec-17,Sberbank,Roladin,-17.63,Coffee,,yes
-31-Dec-17,Sberbank,Paz Hevrat Neft,-55.92,Fuel,,yes
-01-Jan-18,Sberbank,PayPal (Skype),-8.45,Telecom,,yes
-01-Jan-18,Sberbank,Office Depot,-11.45,Household,,yes
-01-Jan-18,Sberbank,ACE,-17.34,Household,,yes
-01-Jan-18,Sberbank,שופרסל,-117.45,Groceries,,yes
-02-Jan-18,Discount,בנק לאומי,-1337,Bank Fees,Deposit box initial payment,yes
-02-Jan-18,Sberbank,PayPal (FastSpring),-32.17,Applications,mac Kindle Removal,yes
-02-Jan-18,Sberbank,Shlomo Sixt,-1307.2,Rent-a-car,,yes
-04-Jan-18,Sberbank,PayPal (AirBnB),-854.77,Gifts,,yes
-05-Jan-18,Discount,משיכת שיק,-3200,Apt Rent,#1,yes
-07-Jan-18,Sberbank,Bayren Sarona,-37.34,Dining Out,,yes
-08-Jan-18,Discount,משרד הקליטה,4800,In Support,,yes
-09-Jan-18,Sberbank,Amazon,-15.98,Books,Fire and Fury: Inside the Trump White House,yes
-10-Jan-18,Discount,רב-קו,-200,Rav-Kav,,yes
-10-Jan-18,Discount,מכבי,-355.59,Insurance,,yes
-11-Jan-18,Sberbank,מגה ביער,-13.4,Groceries,,yes
-14-Jan-18,Discount,משרד הפנים,-180,Gov Fees,,yes
-15-Jan-18,Sberbank,Sberbank,-1.06,Bank Fees,,yes
-17-Jan-18,Sberbank,iTunes,-2.69,Online Services,Dima's iCloud,yes
-18-Jan-18,Sberbank,PayPal (Google),0.85,Transfer,,yes
-18-Jan-18,Sberbank,Apple Store,-17.13,Applications,Bear's Account,yes
-18-Jan-18,Sberbank,PayPal (Google),-0.9,Transfer,,yes
-21-Jan-18,Sberbank,iTunes,-2.69,Online Services,Tanya's iCloud,yes
-21-Jan-18,Sberbank,AliExpress,-4.33,Ele Accessories,,yes
-21-Jan-18,Sberbank,iTunes,-3.05,Online Services,Apple Music,yes
-21-Jan-18,Sberbank,AliExpress,-11.02,Ele Accessories,,yes
-26-Jan-18,Sberbank,Flowers Me and You,-9.05,Gifts,,yes
-26-Jan-18,Sberbank,מאפית משפחה,-7.83,Groceries,,yes
-27-Jan-18,Sberbank,PayPal,-1.09,Transfer,,yes
-27-Jan-18,Sberbank,PayPal,1.03,Transfer,,yes
-28-Jan-18,Sberbank,Golan Telecom,-52.79,Telecom,,yes
-29-Jan-18,Sberbank,PayPal (Skype),-8.72,Telecom,,yes
-31-Jan-18,Sberbank,AliExpress,-2.95,Ele Accessories,,yes
-02-Feb-18,Discount,בנק דיסקונט,-2.95,Bank Fees,,yes
-02-Feb-18,Discount,בנק דיסקונט,-2.95,Bank Fees,,yes
-02-Feb-18,Discount,בנק דיסקונט,-9.9,Bank Fees,Cards' Fees,yes
-02-Feb-18,Discount,בנק דיסקונט,-9.9,Bank Fees,Cards' Fees,yes
-02-Feb-18,Sberbank,Apple Store,-6.87,Applications,Halide - RAW Manual Camera,yes
-02-Feb-18,Sberbank,PayPal (Origin),-40.27,Games,Sims 4 for Tanya,yes
-03-Feb-18,Sberbank,IKEA,-11.59,Household,,yes
-05-Feb-18,Discount,משרד הקליטה,4800,In Support,,yes
-05-Feb-18,Discount,משיכת שיק,-3200,Apt Rent,#2,yes
-05-Feb-18,Sberbank,Tachanat Delek Amal,-55.25,Fuel,,yes
-07-Feb-18,Discount,רב-קו,-250,Rav-Kav,,yes
-11-Feb-18,Discount,מכבי,-212.93,Insurance,,yes
-15-Feb-18,Sberbank,Sberbank,-1.06,Bank Fees,,yes
-17-Feb-18,Sberbank,iTunes,-2.71,Online Services,Dima's iCloud,yes
-20-Feb-18,Sberbank,בזק,-39.59,Telecom,,yes
-21-Feb-18,Sberbank,iTunes,-2.7,Online Services,Tanya's iCloud,yes
-21-Feb-18,Sberbank,iTunes,-3.06,Online Services,Apple Music,yes
-21-Feb-18,Sberbank,Apple Store,-6.87,Applications,Alto's Odyssey,yes
-24-Feb-18,Sberbank,Amazon,-20.21,Books,Hybrid Creatures: Stories (Yellow Shoe Fiction),yes
-25-Feb-18,Sberbank,Golan Telecom,-21.32,Telecom,,yes
-26-Feb-18,Sberbank,PayPal (Skype),-8.71,Telecom,,yes
-28-Feb-18,Sberbank,Book 24,-12.08,Gifts,Book for Marina,yes
-28-Feb-18,Sberbank,PayPal (eBay),-9.16,Accessories,tegnugui №1 & №2,yes
-01-Mar-18,Sberbank,Apple Store,-6.79,Applications,Tweetbot 4 for Twitter,yes
-01-Mar-18,Sberbank,יין נעיר (peri and malka),-33.72,Alcohol,,yes
-02-Mar-18,Discount,בנק דיסקונט,-9.9,Bank Fees,Cards' Fees,yes
-02-Mar-18,Discount,בנק דיסקונט,-9.9,Bank Fees,Cards' Fees,yes
-04-Mar-18,Discount,בנק דיסקונט,-5.9,Bank Fees,,yes
-04-Mar-18,Sberbank,מגה ביער,-15.21,Groceries,,yes
-05-Mar-18,Discount,משרד הקליטה,4800,In Support,,yes
-05-Mar-18,Discount,משיכת שיק,-3200,Apt Rent,#3,yes
-06-Mar-18,Sberbank,Liat Hseada,-34.54,Groceries,,yes
-07-Mar-18,Discount,רב-קו,-200,Rav-Kav,,yes
-08-Mar-18,Sberbank,Japanika,-29.09,Dining Out,,yes
-08-Mar-18,Sberbank,מגה ביער,-17.34,Groceries,,yes
-09-Mar-18,Sberbank,מאפית משפחה,-10.1,Groceries,,yes
-09-Mar-18,Sberbank,Wines Store,-29.68,Alcohol,,yes
-11-Mar-18,Discount,מכבי,-211.87,Insurance,,yes
-12-Mar-18,Sberbank,Apple Store,-1.35,Applications,PhotoStitcher,yes
-13-Mar-18,Discount,Transaction,-600,Transfer,,yes
-15-Mar-18,Sberbank,Sberbank,-1.05,Bank Fees,,yes
-16-Mar-18,Sberbank,מאפית בונז'ור (agami),-20.76,Dining Out,,yes
-16-Mar-18,Sberbank,מאפית משפחה,-7.1,Groceries,,yes
-16-Mar-18,Sberbank,ירקות ופירות,-32.17,Groceries,,yes
-16-Mar-18,Sberbank,Deli Mania,-17.33,Groceries,,yes
-16-Mar-18,Sberbank,AM-PM,-11.44,Groceries,,yes
-17-Mar-18,Sberbank,AliExpress,-8.08,Ele Accessories,,yes
-18-Mar-18,Sberbank,iTunes,-2.63,Online Services,Dima's iCloud,yes
-18-Mar-18,Sberbank,Reshut Hadoar Mechir,-13.06,Gov Fees,Stamps for Tanya,yes
-19-Mar-18,Sberbank,Microsoft,-48.09,Applications,Office 365,yes
-20-Mar-18,Sberbank,בזק,-28.99,Telecom,,yes
-20-Mar-18,Sberbank,מגה ביער,-16.01,Groceries,,yes
-21-Mar-18,Sberbank,Apple Store,-1.35,Applications,Network Radar,yes
-21-Mar-18,Sberbank,Nisso Keyks,-24.86,Gifts,Cake to Ljuba,yes
-22-Mar-18,Sberbank,iTunes,-2.66,Online Services,Tanya's iCloud,yes
-22-Mar-18,Sberbank,iTunes,-3.02,Online Services,Apple Music,yes
-22-Mar-18,Sberbank,Shufersal,-80.95,Groceries,,yes
-22-Mar-18,Discount,רב-קו,-200,Rav-Kav,,yes
-23-Mar-18,Sberbank,AliExpress,-17.46,Accessories,iPhone 7-8 cases,yes
-27-Mar-18,Sberbank,Cafe Alterman,-17.21,Coffee,,yes
-27-Mar-18,Sberbank,HAMESHAPETZ,-25.96,Coffee,,yes
-27-Mar-18,Sberbank,Foot Locker,-37.89,Headware,,yes
-28-Mar-18,Sberbank,PayPal (eBay),4.32,Accessories,Return for tegnugui №1,yes
-28-Mar-18,Sberbank,PayPal (eBay),4.32,Accessories,Return for tegnugui №1,yes
-28-Mar-18,Sberbank,Golan Telecom,-21.64,Telecom,,yes
-28-Mar-18,Sberbank,פלאפל של חיים,-13.1,Dining Out,,yes
-28-Mar-18,Discount,Cash,-800,Transfer,,yes
-29-Mar-18,Sberbank,PayPal (Skype),-8.7,Telecom,,yes
-29-Mar-18,Sberbank,Mike's Place,-14.88,Dining Out,,yes
-29-Mar-18,Discount,משרד הקליטה,4800,In Support,,yes
-30-Mar-18,Discount,בנק דיסקונט,-0.05,Bank Fees,,yes
-30-Mar-18,Discount,בנק דיסקונט,0.3,In Interest,,yes
-01-Apr-18,Sberbank,Shlomo Sixt,-40.64,Rent-a-car,,yes
-02-Apr-18,Discount,בנק דיסקונט,-5.9,Bank Fees,,yes
-02-Apr-18,Discount,בנק דיסקונט,-9.9,Bank Fees,Cards' Fees,yes
-02-Apr-18,Discount,בנק דיסקונט,-9.9,Bank Fees,Cards' Fees,yes
-03-Apr-18,Sberbank,Tachanat Delek Amal,-57.76,Fuel,,yes
-04-Apr-18,Sberbank,PayPal (FastSpring),-15.95,Applications,mac / Bartender 3,yes
-05-Apr-18,Discount,משיכת שיק,-3200,Apt Rent,#4,yes
-06-Apr-18,Sberbank,Apple Store,-9.33,Applications,Finances 2,yes
-09-Apr-18,Discount,משרד הפנים,-65,Gov Fees,,yes
-09-Apr-18,Discount,משרד הפנים,-65,Gov Fees,,yes
-10-Apr-18,Discount,רב-קו,-100,Rav-Kav,,yes
-10-Apr-18,Discount,רב-קו,-100,Rav-Kav,,yes
-10-Apr-18,Discount,מכבי,-212.08,Insurance,,yes
-14-Apr-18,Sberbank,PayPal (eBay),-1.32,Ele Accessories,Pentalobe screewdriver,yes
-14-Apr-18,Sberbank,iTunes,-3.71,Online Services,Apple Music,yes
-15-Apr-18,Sberbank,Sberbank,-0.98,Bank Fees,,yes
-18-Apr-18,Sberbank,iTunes,-2.5,Online Services,Dima's iCloud,yes
-18-Apr-18,Sberbank,יין נעיר (peri and malka),-33.42,Alcohol,,yes
-20-Apr-18,Sberbank,בזק,-28.65,Telecom,,yes
-22-Apr-18,Sberbank,iTunes,-2.47,Online Services,Tanya's iCloud,yes
-24-Apr-18,Discount,בנק דיסקונט,-0.1,Bank Fees,,yes
-24-Apr-18,Discount,בנק דיסקונט,0.65,In Interest,,yes
-24-Apr-18,Discount,Transaction,10000,Transfer,,yes
-24-Apr-18,Discount,Transaction,-10000.55,Transfer,,yes
-24-Apr-18,Deposit,Transaction,10000.55,Transfer,,yes
-24-Apr-18,Deposit,Transaction,-10000,Transfer,,yes
-25-Apr-18,Sberbank,Amazon,-4.25,Books,The Forever Fight: The Forever Series Book 3,yes
-25-Apr-18,Sberbank,Apple Store,-9.75,Applications,ИРИС Иврит-Русский Словарь,yes
-26-Apr-18,Sberbank,Golan Telecom,-21.53,Telecom,,yes
-28-Apr-18,Sberbank,PayPal (Skype),-8.48,Telecom,,yes
-29-Apr-18,Sberbank,פלאפל של חיים,-12.2,Dining Out,,yes
-30-Apr-18,Sberbank,Amazon,-8.5,Books,The Forever Series missing books,yes
-30-Apr-18,Sberbank,AliExpress,-9.99,Accessories,Israeli Flag Pins,yes
-01-May-18,Sberbank,Amazon,-15.98,Books,Only Human (The Themis Files),yes
-02-May-18,Discount,בנק דיסקונט,-5.9,Bank Fees,,yes
-02-May-18,Discount,בנק דיסקונט,-9.9,Bank Fees,Cards' Fees,yes
-02-May-18,Discount,בנק דיסקונט,-9.9,Bank Fees,Cards' Fees,yes
-02-May-18,Sberbank,יין נעיר (peri and malka),-21.43,Alcohol,,yes
-03-May-18,Discount,רב-קו,-486,Rav-Kav,,yes
-04-May-18,Sberbank,Apple Store,-6.17,Applications,CamToPlan PRO,yes
-06-May-18,Sberbank,AliExpress,-62.48,Trv Equipment,Beach Tent,yes
-06-May-18,Discount,משרד הקליטה,4800,In Support,,yes
-06-May-18,Discount,משיכת שיק,-3200,Apt Rent,#5,yes
-10-May-18,Discount,מכבי,-212.72,Insurance,,yes
-11-May-18,Sberbank,PayPal (Skype),-17.37,Telecom,,yes
-12-May-18,Sberbank,Apple Store,-6.27,Applications,Command & Conquer,yes
-13-May-18,Sberbank,iTunes,-4.39,Online Services,Apple Music,yes
-15-May-18,Sberbank,Sberbank,-0.97,Bank Fees,,yes
-17-May-18,Sberbank,iTunes,-2.44,Online Services,Dima's iCloud,yes
-18-May-18,Sberbank,מאפית בונז'ור (agami),-9.86,Groceries,,yes
-19-May-18,Sberbank,AliExpress,-12.99,Ele Accessories,Lightning adaptor for Tanya,yes
-20-May-18,Sberbank,בזק,-28.21,Telecom,,yes
-21-May-18,Sberbank,מאפית בונז'ור (agami),-3.02,Groceries,,yes
-21-May-18,Sberbank,מכביפרם,-10.05,Medicine,,yes
-21-May-18,Sberbank,Deli Mania,-20.91,Groceries,,yes
-21-May-18,Sberbank,בן'ז פירות וירקות,-23.05,Veggies,,yes
-21-May-18,Sberbank,סופר-פארם,-25.81,Medicine,,yes
-22-May-18,Sberbank,iTunes,-2.47,Online Services,Tanya's iCloud,yes
-24-May-18,Sberbank,Deli Mania,-15.07,Groceries,,yes
-24-May-18,Sberbank,PIRHEI HANEMAL,-19.79,Gifts,,yes
-24-May-18,Sberbank,בן'ז פירות וירקות,-31.34,Veggies,,yes
-24-May-18,Sberbank,יין נעיר (peri and malka),-34.99,Alcohol,,yes
-28-May-18,Sberbank,Golan Telecom,-21.69,Telecom,,yes
-29-May-18,Discount,רב-קו,-100,Rav-Kav,,yes
-31-May-18,Discount,בנק דיסקונט,-5.9,Bank Fees,,yes
-01-Jun-18,Sberbank,Apple Store,-3.77,Applications,Helix Jump,yes
-01-Jun-18,Discount,רב-קו,-486,Rav-Kav,,yes
-03-Jun-18,Discount,בנק דיסקונט,-19.8,Bank Fees,Cards' Fees,yes
-04-Jun-18,Discount,IKEA,-150,Household,,yes
-05-Jun-18,Sberbank,Agadir,-48.63,Dining Out,,yes
-05-Jun-18,Discount,משרד הקליטה,4800,In Support,,yes
-05-Jun-18,Discount,משיכת שיק,-3200,Apt Rent,#6,yes
-09-Jun-18,Sberbank,PayPal (Skype),-17.03,Telecom,,yes
-10-Jun-18,Discount,מכבי,-299.57,Insurance,,yes
-11-Jun-18,Sberbank,AliExpress,-1.7,Accessories,,yes
-11-Jun-18,Sberbank,AliExpress,-1.7,Accessories,,yes
-11-Jun-18,Sberbank,AliExpress,-1.88,Accessories,,yes
-13-Jun-18,Sberbank,iTunes,-4.37,Online Services,Apple Music,yes
-15-Jun-18,Sberbank,Sberbank,-0.96,Bank Fees,,yes
-16-Jun-18,Sberbank,AliExpress,-1.79,Accessories,,yes
-18-Jun-18,Sberbank,iTunes,-2.39,Online Services,Dima's iCloud,yes
-18-Jun-18,Sberbank,Amazon,-1.33,Books,Sten And The Star Wanderers,yes
-20-Jun-18,Sberbank,AliExpress,-7.37,Accessories,,yes
-20-Jun-18,Sberbank,בזק,-27.92,Telecom,,yes
-21-Jun-18,Sberbank,iTunes,-2.42,Online Services,Tanya's iCloud,yes
-23-Jun-18,Sberbank,PayPal (Steam),-0.7,Games,,yes
-26-Jun-18,Sberbank,Golan Telecom,-21.79,Telecom,,yes
-29-Jun-18,Discount,בנק דיסקונט,-0.05,Bank Fees,,yes
-29-Jun-18,Discount,בנק דיסקונט,0.3,In Interest,,yes
-02-Jul-18,Discount,בנק דיסקונט,-5.9,Bank Fees,,yes
-02-Jul-18,Discount,בנק דיסקונט,-19.8,Bank Fees,Cards' Fees,yes
-02-Jul-18,Discount,רב-קו,-486,Rav-Kav,,yes
-03-Jul-18,Discount,משרד הבינו,402,In Support,,yes
-05-Jul-18,Sberbank,PayPal (Direct Trade),-43.8,App Accessories,Tanya's backpack,yes
-05-Jul-18,Discount,משיכת שיק,-3200,Apt Rent,#7,yes
-08-Jul-18,Sberbank,Sberbank,-15,Bank Fees,,yes
-08-Jul-18,Sberbank,PayPal (Skype),-17.18,Telecom,,yes
-10-Jul-18,Discount,מכבי,-202.51,Insurance,,yes
-14-Jul-18,Sberbank,iTunes,-4.4,Online Services,Apple Music,yes
-15-Jul-18,Sberbank,Sberbank,-0.96,Bank Fees,,yes
-16-Jul-18,Sberbank,FastSpring,-54.43,Applications,mac / Luminar 2018,yes
-17-Jul-18,Sberbank,iTunes,-2.39,Online Services,Dima's iCloud,yes
-18-Jul-18,Sberbank,Evernote,-32.05,Online Services,,yes
-20-Jul-18,Sberbank,פירות וירקות,-13.73,Veggies,,yes
-20-Jul-18,Sberbank,Deli Mania,-16.13,Coffee,,yes
-20-Jul-18,Sberbank,מאפית בונז'ור (agami),-25.73,Bakery,,yes
-22-Jul-18,Sberbank,בזק,-27.75,Telecom,,yes
-22-Jul-18,Sberbank,iTunes,-2.41,Online Services,Tanya's iCloud,yes
-27-Jul-18,Sberbank,GETT,-10.77,Taxi,,yes
-27-Jul-18,Sberbank,Golan Telecom,-20.59,Telecom,,yes
-30-Jul-18,Discount,רב-קו,-486,Rav-Kav,,yes
-31-Jul-18,Sberbank,Amazon,-12.78,Books,Record of a Spaceborn Few,yes
-31-Jul-18,Sberbank,Apple Store,-3.61,Applications,"Widget Calendar, Disk Care ",yes
-02-Aug-18,Discount,בנק דיסקונט,-5.9,Bank Fees,,yes
-02-Aug-18,Discount,בנק דיסקונט,-19.8,Bank Fees,Cards' Fees,yes
-05-Aug-18,Discount,משרד הקליטה,1877,In Support,,yes
-05-Aug-18,Discount,משרד הבינו,402,In Support,,yes
-05-Aug-18,Discount,משרד הקליטה,134,In Support,,yes
-05-Aug-18,Discount,משיכת שיק,-3200,Apt Rent,#8,yes
-08-Aug-18,Sberbank,PayPal (Skype),-16.4,Telecom,,yes
-10-Aug-18,Discount,מכבי,-230.71,Insurance,,yes
-12-Aug-18,Sberbank,Apple Store,-36.69,Applications,"Renewal of Day One, Business Print Lab Templates",yes
-12-Aug-18,Discount,משרד הקליטה,1950,In Support,,yes
-12-Aug-18,Discount,משרד הקליטה,134,In Support,,yes
-14-Aug-18,Sberbank,iTunes,-4.07,Online Services,Apple Music,yes
-15-Aug-18,Sberbank,Sberbank,-0.9,Bank Fees,,yes
-20-Aug-18,Sberbank,בזק,-27.75,Telecom,,yes
-21-Aug-18,Discount,בנק דיסקונט,-0.1,Bank Fees,,yes
-21-Aug-18,Discount,בנק דיסקונט,0.65,In Interest,,yes
-21-Aug-18,Discount,Transaction,-10001.1,Transfer,,yes
-21-Aug-18,Discount,Transaction,10000.55,Transfer,,yes
-21-Aug-18,Deposit,Transaction,10001.1,Transfer,,yes
-21-Aug-18,Deposit,Transaction,-10000.55,Transfer,,yes
-22-Aug-18,Sberbank,Shlomo Sixt,-104.12,Rent-a-car,,yes
-22-Aug-18,Sberbank,iTunes,-2.22,Online Services,Tanya's iCloud,yes
-27-Aug-18,Sberbank,Golan Telecom,-20.95,Telecom,,yes
-27-Aug-18,Discount,רב-קו,-343,Rav-Kav,,yes
-29-Aug-18,Discount,ACE,-231,Household,,yes
-29-Aug-18,Sberbank,AllJobs,-13.85,Online Services,,yes
-29-Aug-18,Discount,משרד רישוי,-207.8,Gov Fees,Driving License,yes
-31-Aug-18,Sberbank,Shlomo Sixt,-94.06,Rent-a-car,,yes
-03-Sep-18,Discount,בנק דיסקונט,-5.9,Bank Fees,,yes
-03-Sep-18,Discount,משרד הבינו,402,In Support,,yes
-03-Sep-18,Discount,Transaction,-5.57,Transfer,Tanya tried card in Moscow,yes
-03-Sep-18,Sberbank,Transaction,5000,Cash In,,yes
-04-Sep-18,Discount,בנק דיסקונט,-9.9,Bank Fees,,yes
-04-Sep-18,Discount,בנק דיסקונט,-9.9,Bank Fees,,yes
-04-Sep-18,Sberbank,Amazon,-8.52,Books,The Dreaming Stars: Book II of the Axiom,yes
-04-Sep-18,Sberbank,Amazon,-15.98,Books,Salvation: A Novel (Salvation Sequence),yes
-05-Sep-18,Sberbank,יין נעיר (peri and malka),-17.66,Alcohol,,yes
-05-Sep-18,Discount,משיכת שיק,-3200,Apt Rent,#9,yes
-07-Sep-18,Discount,מאפית בונז'ור (agami),-28.5,Bakery,,yes
-07-Sep-18,Discount,פרשמרקט,-180.48,Groceries,,yes
-07-Sep-18,Discount,מגה ביער,-65.5,Groceries,,yes
-07-Sep-18,Discount,ירקות ופירות,-80.2,Groceries,,yes
-07-Sep-18,Sberbank,Stayle 3000,-99.57,Gifts,,yes
-07-Sep-18,Sberbank,Nike,-161.81,Footwear,,yes
-07-Sep-18,Discount,בנק דיסקונט,1.31,In Interest,,yes
-08-Sep-18,Sberbank,PayPal (Skype),-16.97,Telecom,,yes
-12-Sep-18,Sberbank,MaccabiDent,-12.59,Doctors,,yes
-12-Sep-18,Discount,מכבי,-202.71,Insurance,,yes
-13-Sep-18,Sberbank,iTunes,-4.03,Online Services,Apple Music,yes
-16-Sep-18,Sberbank,Sberbank,-0.88,Bank Fees,,yes
-16-Sep-18,Sberbank,Landwer,-11.14,Dining Out,,yes
-19-Sep-18,Sberbank,AliExpress,-1.88,Accessories,,yes
-19-Sep-18,Sberbank,PayPal (eBay),-2.49,Accessories,,yes
-20-Sep-18,Sberbank,Israel Rail,-11.42,Bus & Train,,yes
-20-Sep-18,Sberbank,Israel Rail,-11.42,Bus & Train,,yes
-20-Sep-18,Sberbank,בזק,-28.27,Telecom,,yes
-21-Sep-18,Sberbank,יין נעיר (peri and malka),-34.27,Alcohol,NIS 120 wine for us and Shalom,yes
-21-Sep-18,Cash,מאפית בונז'ור (agami),-12,Bakery,,yes
-21-Sep-18,Sberbank,iTunes,-2.28,Online Services,Tanya's iCloud,yes
-21-Sep-18,Discount,רב-קו,-100,Rav-Kav,,yes
-22-Sep-18,Sberbank,Amazon,-11.71,Books,"Rainbox Six, The Cleaner",yes
-22-Sep-18,Sberbank,AliExpress,-25.69,Games,Puzzle,yes
-22-Sep-18,Sberbank,AliExpress,-1.88,Ele Accessories,Glass for P7,yes
-22-Sep-18,Sberbank,AliExpress,-0.57,Household,Melamine sponges,yes
-22-Sep-18,Cash,Deli Mania,-6.3,Groceries,,yes
-24-Sep-18,Sberbank,AliExpress,-3.67,Hanging,Door hangers,yes
-24-Sep-18,Sberbank,AliExpress,-0.99,Hanging,Kitchen hanger,yes
-24-Sep-18,Sberbank,AliExpress,-1.22,Hanging,Bathroom hanger,yes
-24-Sep-18,Sberbank,AliExpress,-1.63,Hanging,Bag hanger,yes
-24-Sep-18,Sberbank,AliExpress,-5.4,Hanging,Wall hangers,yes
-24-Sep-18,Sberbank,AliExpress,-8.23,Accessories,Umbrella,yes
-25-Sep-18,Sberbank,Golan Telecom,-21.01,Telecom,,yes
-26-Sep-18,Sberbank,Pango,-1.48,Parking,Probably for parking @ Mom's,yes
-26-Sep-18,Sberbank,AliExpress,-12.99,Ele Accessories,Lightning adaptor for Tanya,yes
-27-Sep-18,Cash,פלאפל של חיים,-15,Dining Out,,yes
-28-Sep-18,Discount,רב-קו,-243,Rav-Kav,,yes
-28-Sep-18,Discount,רב-קו,-100,Rav-Kav,Added to Tanya,yes
-28-Sep-18,Discount,רב-קו,-243,Rav-Kav,,yes
-29-Sep-18,Sberbank,PayPal (Skype),-21.25,Telecom,"For 3 months, next should be Dec 26",yes
-29-Sep-18,Discount,ג'וניור בעיר,-78,,Ice-cream,yes
-30-Sep-18,Cash,Maki Maki,-36,Alcohol,,yes
-30-Sep-18,Cash,מאפית בונז'ור (agami),-4.9,Bakery,Tanya ate couple of buns,yes
-30-Sep-18,Tanya Sbr,פרשמרקט,-80.4010989,Groceries,,yes
-30-Sep-18,Tanya Sbr,"פרי שופ בע""מ",-21.15384615,Groceries,,yes
-30-Sep-18,Tanya Sbr,פירות וירקות 10,-2.582417582,Veggies,,yes
-30-Sep-18,Discount,בנק דיסקונט,0.32,In Interest,,yes
-30-Sep-18,Discount,בנק דיסקונט,-0.05,Bank Fees,,yes
-01-Oct-18,Sberbank,Amazon,-4.25,Books,All Systems Red,yes
-01-Oct-18,Sberbank,1Password,-35.88,Applications,1Password for 1 year,yes
-02-Oct-18,Tanya Sbr,סופר-פארם,-3.74,Groceries,,yes
-02-Oct-18,Discount,בנק דיסקונט,-9.9,Bank Fees,,yes
-02-Oct-18,Discount,בנק דיסקונט,-9.9,Bank Fees,,yes
-02-Oct-18,Sberbank,Amazon,-11.06,Books,"2001: An Odyssey in Words, Infinity's End",yes
-02-Oct-18,Sberbank,iTunes,-5.8,Applications,SyncSolver for Fitbit,yes
-03-Oct-18,Cash,Israel Rail,-40,Bus & Train,,yes
-03-Oct-18,Discount,Israel Rail,-40,Bus & Train,,yes
-03-Oct-18,Cash,Lost,-10,Lost,To vending machine in Haifa for Coke,yes
-03-Oct-18,Cash,מקטרופולין,-5.9,Bus & Train,,yes
-03-Oct-18,Discount,מגה ביער,-79.9,Groceries,,yes
-03-Oct-18,Discount,משרד הבינו,402,In Support,,yes
-03-Oct-18,Discount,משרד הקליטה,1559,In Support,,yes
-03-Oct-18,Discount,משרד הקליטה,106,In Support,,yes
-03-Oct-18,Discount,בנק דיסקונט,-5.9,Bank Fees,,yes
-04-Oct-18,Cash,Agadir,-13.8,Dining Out,,yes
-04-Oct-18,Tanya Sbr,Deli Mania,-12.76,Groceries,,yes
-04-Oct-18,Tanya Sbr,פירות וירקות,-6.41,Veggies,,yes
-04-Oct-18,Tanya Sbr,מאפית משפחה,-3.07,Bakery,,yes
-04-Oct-18,Tanya Sbr,Agadir,-43.24,Dining Out,,yes
-04-Oct-18,Cash,שוק כרמל,-162.4,Groceries,,yes
-05-Oct-18,Sberbank,Maki Maki,-4.52,Dining Out,,yes
-05-Oct-18,Sberbank,בן'ז פירות וירקות,-15.8,Veggies,,yes
-05-Oct-18,Sberbank,ג'וניור בעיר,-23.7,Groceries,,yes
-05-Oct-18,Sberbank,Amazon,-13.85,Books,The Moon Is a Harsh Mistress,yes
-05-Oct-18,Discount,משיכת שיק,-3200,Apt Rent,#10,yes
-05-Oct-18,Discount,בנק דיסקונט,1.6,In Interest,,yes
-06-Oct-18,Sberbank,AllJobs,-13.83,Online Services,,yes
-06-Oct-18,Sberbank,iTunes,-2.27,Applications,SKRWT,yes
-07-Oct-18,Tanya Sbr,מגה ביער,-18,Groceries,,yes
-07-Oct-18,Cash,Grocery,-15,Groceries,,yes
-07-Oct-18,Tanya Sbr,MB Burger,-65.1,Dining Out,,yes
-08-Oct-18,Tanya Sbr,Meat Bar,-74.05,Dining Out,"Celebrating ""The Day""",yes
-08-Oct-18,Cash,Meat Bar,-30,Tips,,yes
-08-Oct-18,Sberbank,AliExpress,-5.3,Ele Accessories,,yes
-08-Oct-18,Sberbank,יין נעיר (peri and malka),-32.57,Alcohol,,yes
-08-Oct-18,Sberbank,AliExpress,5.35,Ele Accessories,Return for wrong case they sent for Tanya,
-09-Oct-18,Tanya Sbr,פרשמרקט,-29.93,Groceries,,yes
-09-Oct-18,Tanya Sbr,Good Pharm,-2.41,Hygene,,yes
-10-Oct-18,Tanya Sbr,מגה ביער,-11.63,Groceries,,yes
-10-Oct-18,Cash,Tanya,-20,Transfer,,yes
-10-Oct-18,Discount,מכבי,-202.91,Insurance,,yes
-11-Oct-18,Foreign,Out Transfer,-300,Transfer,,yes
-11-Oct-18,Cash,In Transfer,1086.91,Transfer,,yes
-11-Oct-18,Cash,מגה ביער,-72.91,Groceries,,yes
-11-Oct-18,Cash,Grocery,-12,Cafe,,yes
-11-Oct-18,Cash,Grocery,-13,Groceries,,yes
-11-Oct-18,Cash,Deli Mania,-94.1,Groceries,,yes
-11-Oct-18,Cash,פירות וירקות,-34.8,Veggies,,yes
-11-Oct-18,Cash,Tanya,-114.6,Transfer,,yes
-11-Oct-18,Cash,בית מרקחת פארמה פלוס הרצליה,-42.87,Medicine,,yes
-11-Oct-18,Cash,פלאפל של חיים,-17,Groceries,,yes
-11-Oct-18,Sberbank,Shlomo Sixt,-16.8,Driving Fare,Using Carmel tunnel,yes
-13-Oct-18,Sberbank,Apple Store,-1.17,Applications,"SKRWT, 4PNTS - Export Feature",yes
-13-Oct-18,Sberbank,iTunes,-4.19,Online Services,Apple Music,yes
-14-Oct-18,Cash,שופרסל,-139,Groceries,"80 capsules of coffee, 2 bottles of wine and 2 chocolates",yes
-14-Oct-18,Cash,בן'ז פירות וירקות,-124,Veggies,,yes
-14-Oct-18,Cash,Deli Mania,-25.1,Groceries,,yes
-14-Oct-18,Cash,Grocery,-12.5,Groceries,,yes
-14-Oct-18,Sberbank,AliExpress,-2.21,Ele Accessories,"USB SATA cable, mini-USB adapter",yes
-15-Oct-18,Cash,מאפית בונז'ור (agami),-29.8,Bakery,,yes
-15-Oct-18,Tanya Sbr,מגה ביער,-8.08,Groceries,,yes
-15-Oct-18,Sberbank,AliExpress,-9.28,Accessories,Plastics suction cups for Tanya,yes
-15-Oct-18,Sberbank,Sberbank,-0.91,Bank Fees,Mobile Banking,yes
-16-Oct-18,Tanya Sbr,Lagofre Moshava German,-15.87,Cafe,Ice-cream and coffees,yes
-16-Oct-18,Sberbank,AllJobs,8.77,Online Services,,yes
-16-Oct-18,Cash,Israel Rail,-80,Bus & Train,,yes
-17-Oct-18,Cash,בן'ז פירות וירקות,-15,Veggies,,yes
-17-Oct-18,Cash,Grocery,-13,Groceries,,yes
-17-Oct-18,Sberbank,מגה ביער,-10.25,Alcohol,10/17 single pay 16.76,yes
-17-Oct-18,Sberbank,מגה ביער,-6.42,Groceries,10/17 single pay 16.76,yes
-17-Oct-18,Sberbank,מכבי,-4.2,Medicine,,yes
-18-Oct-18,Cash,Abulafia,-30,Bakery,,yes
-18-Oct-18,Cash,שוק כרמל,-122.23,Veggies,,yes
-18-Oct-18,Tanya Sbr,סופר-פארם,-10.64,Hygene,,yes
-19-Oct-18,Tanya Sbr,Tenant,300,In Appt Zhuk,,yes
-19-Oct-18,Tanya Sbr,פרשמרקט,-22,Alcohol,10/19 single pay 44.65 (ILS 161.50),yes
-19-Oct-18,Tanya Sbr,פרשמרקט,-24.65,Groceries,10/19 single pay 44.65 (ILS 161.50),yes
-20-Oct-18,Sberbank,בזק,-27.63,Telecom,,yes
-21-Oct-18,Cash,Grocery,-9,Groceries,,yes
-21-Oct-18,Tanya Sbr,Meatos,-46.16,Dining Out,,yes
-21-Oct-18,Tanya Sbr,Ulpan Bayit,-765.55,Education,,yes
-21-Oct-18,Tanya Sbr,Good Pharm,-2.75,Hygene,,yes
-22-Oct-18,Tanya Sbr,Coffix,-3,Coffee,,yes
-22-Oct-18,Tanya Sbr,Deli Mania,-28.23,Groceries,,yes
-22-Oct-18,Tanya Sbr,בן'ז פירות וירקות,-12.11,Veggies,,yes
-22-Oct-18,Cash,מאפית בונז'ור (agami),-6.5,Groceries,,yes
-22-Oct-18,Cash,Transaction,726,Transfer,,yes
-22-Oct-18,Foreign,Transaction,-200,Transfer,,yes
-22-Oct-18,Cash,Deli Mania,-1.8,Groceries,,yes
-22-Oct-18,Sberbank,iTunes,-2.33,,,yes
-23-Oct-18,Sberbank,Casa Del Pepe,-18.58,Dining Out,,yes
-24-Oct-18,Tanya Sbr,Landwer,-11.67,Coffee,,yes
-24-Oct-18,Cash,Grocery,-15,Groceries,,yes
-24-Oct-18,Cash,Roladin,-12,Cafe,,yes
-25-Oct-18,Tanya Sbr,בן'ז פירות וירקות,-12.55,Veggies,,yes
-25-Oct-18,Tanya Sbr,פרשמרקט,-30.26,Groceries,,yes
-25-Oct-18,Cash,מאפית בונז'ור (agami),-6,Groceries,,yes
-25-Oct-18,Sberbank,Notion,-48,Applications,Notion,yes
-26-Oct-18,Tanya Sbr,Makaolet Adi,-30,Hygene,,yes
-26-Oct-18,Tanya Sbr,Yura,740,In Gift,Yura gave Tanya for studying,yes
-28-Oct-18,Sberbank,Golan Telecom,-20.22,Telecom,,yes
-28-Oct-18,Tanya Sbr,פרשמרקט,-78.4,Groceries,10/28 single pay 83.52 (ILS 305.88),yes
-28-Oct-18,Tanya Sbr,פרשמרקט,-5.12,Alcohol,10/28 single pay 83.52 (ILS 305.88),yes
-29-Oct-18,Sberbank,Amazon,-10.65,Books,,yes
-29-Oct-18,Tanya Sbr,מכבי,-12.4,Medicine,10/29 single pay 20.40 (ILS 75.90),yes
-29-Oct-18,Tanya Sbr,מכבי,-8,Hygene,10/29 single pay 20.40 (ILS 75.90),yes
-31-Oct-18,Cash,מאפית בונז'ור (agami),-11.5,Groceries,,yes
-31-Oct-18,Discount,מכבי,-21.9,Doctors,Dental for Tanya,yes
-31-Oct-18,Tanya Sbr,Casa Del Pepe,-18.3,Dining Out,,yes
-31-Oct-18,Tanya Sbr,בן'ז פירות וירקות,-17.81,Veggies,,yes
-01-Nov-18,Sberbank,Amazon,-10.65,Books,,yes
-01-Nov-18,Discount,רב-קו,-243,Bus & Train,,yes
-01-Nov-18,Discount,רב-קו,-243,Bus & Train,,yes
-01-Nov-18,Tanya Sbr,מגה ביער,-27.69,Groceries,,yes
-01-Nov-18,Tanya Sbr,פרשמרקט,-35.95,Groceries,11/1 single pay 49.52 (ILS 182.47),
-01-Nov-18,Tanya Sbr,פרשמרקט,-13.57,Alcohol,11/1 single pay 49.52 (ILS 182.47),
-01-Nov-18,Discount,משרד הקליטה,1090,In Support,,
-02-Nov-18,Discount,בנק דיסקונט,-9.9,Bank Fees,,
-02-Nov-18,Discount,בנק דיסקונט,-9.9,Bank Fees,,
-02-Nov-18,Discount,בנק דיסקונט,-5.9,Bank Fees,,
-04-Nov-18,Tanya Sbr,Deli Mania,-25.02,Groceries,,
-04-Nov-18,Tanya Sbr,בן'ז פירות וירקות,-7.06,Veggies,,
-04-Nov-18,Tanya Sbr,מגה ביער,-12.57,Groceries,,
-04-Nov-18,Discount,משרד הבינו,402,In Support,,
-04-Nov-18,Cash,Grocery,-14,Groceries,,
-05-Nov-18,Cash,מאפית בונז'ור (agami),-4,Groceries,,
-05-Nov-18,Sberbank,Amazon,-10.65,Books,,
-05-Nov-18,Discount,משיכת שיק,-3200,Apt Rent,#11,
-05-Nov-18,Discount,משרד הקליטה,2179,In Support,,
-06-Nov-18,Cash,Israel Rail,-40,Bus & Train,,
-06-Nov-18,Sberbank,Hyyin Vasigar,-30.17,Alcohol,Bowmore whisky,
-06-Nov-18,Sberbank,LitRes,-1.91,Books,"Радзинский, Олег. Агафонкин и Время",
-06-Nov-18,Sberbank,Hostinger,-2.54,Online Services,Hosting,
-06-Nov-18,Sberbank,GoDaddy,-14.21,Online Services,,
-06-Nov-18,Tanya Sbr,MAX  20,-2.74,Household,,
-06-Nov-18,Tanya Sbr,מאפית בונז'ור (agami),-4.99,Groceries,,
-06-Nov-18,Tanya Sbr,Deli Mania,-23.74,Groceries,,
-06-Nov-18,Tanya Sbr,סופר-פארם,-11.74,Hygene,,
-06-Nov-18,Cash,Cafe,-6,Coffee,,
-06-Nov-18,Cash,Agadir,-2,Tips,,
-07-Nov-18,Tanya Sbr,Deli Mania,-15.44,Groceries,,
-08-Nov-18,Tanya Sbr,Yura,240,In Appt Zhuk,,
-08-Nov-18,Tanya Sbr,מגה ביער,-32.35,Groceries,,
-08-Nov-18,Tanya Sbr,Burger Ranch Herzliya,-13.79,Dining Out,,
-11-Nov-18,Tanya Sbr,מגה ביער,-24.95,Groceries,,
-11-Nov-18,Tanya Sbr,מגה ביער,-8.32,Alcohol,,
-11-Nov-18,Discount,מכבי,-203.11,Insurance,,
-12-Nov-18,Sberbank,Casa Del Pepe,-15.74,Dining Out,,
-12-Nov-18,Cash,שוק כרמל,-21,Veggies,,
-12-Nov-18,Cash,שוק כרמל,-35,Veggies,,
-12-Nov-18,Cash,שוק כרמל,-12.5,Veggies,,
-12-Nov-18,Cash,שוק כרמל,-26,Veggies,,
-13-Nov-18,Sberbank,Israel Rail,-11.06,Bus & Train,,
-13-Nov-18,Sberbank,Dream Nemo,-48.37,Dining Out,,
-13-Nov-18,Sberbank,Hyyin Vasigar,-13.82,Alcohol,,
-14-Nov-18,Sberbank,AliExpress,-4.74,Ele Accessories,Beats ear pads,
-14-Nov-18,Sberbank,Israel Rail,-6.09,Bus & Train,,
-14-Nov-18,Cash,שוק כרמל,-24.5,Veggies,,
-14-Nov-18,Cash,שוק כרמל,-8.5,Veggies,,
-14-Nov-18,Cash,Tanya,-130,Transfer,,
-14-Nov-18,Tanya Sbr,IKEA,-29.85,Dining Out,,
-14-Nov-18,Tanya Sbr,Livne Tzfone (IKEA),-20.55,Household,,
-14-Nov-18,Tanya Sbr,Livne Tzfone (IKEA),-2.46,Household,,
-14-Nov-18,Tanya Sbr,מגה ביער,-3.59,Groceries,,
-14-Nov-18,Cash,שוק כרמל,-238.3,Veggies,?,
-15-Nov-18,Sberbank,Gargir Hazahav,-29.26,Dining Out,Houmous place near Tanya's school,
-15-Nov-18,Tanya Sbr,מגה ביער,-14.42,Groceries,,
-15-Nov-18,Tanya Sbr,H&M,-8.16,Household,,
-15-Nov-18,Tanya Sbr,Urban,-3.83,Household,,
-15-Nov-18,Tanya Sbr,גולדה,-4.38,Cafe,,
-16-Nov-18,Sberbank,Sberbank,-0.89,Bank Fees,,
-16-Nov-18,Sberbank,Rav-Han,-28.04,Movies,Fantastic Beasts,
-16-Nov-18,Sberbank,AliExpress,-2.82,Ele Accessories,USB3 client,
-17-Nov-18,Tanya Sbr,סופר-פארם,-52.7,Hygene,,
+Date,Account,Transaction,Amount,Category,Notes
+01-Feb-18,Account 4,Transaction 10,206,Category 10,
+14-Oct-18,Account 4,Transaction 2,95,Category 5,
+01-Oct-18,Account 3,Transaction 13,-469,Category 7,
+15-Oct-18,Account 1,Transaction 12,-299,Category 7,
+21-Jul-18,Account 3,Transaction 1,-460,Category 9,
+24-Jan-17,Account 4,Transaction 17,203,Category 7,Random notes
+26-May-18,Account 4,Transaction 9,-74,Category 10,
+12-Aug-18,Account 3,Transaction 3,-243,Category 7,
+03-Feb-18,Account 3,Transaction 2,80,Category 5,
+11-Sep-18,Account 4,Transaction 19,-130,Category 7,
+22-Sep-18,Account 1,Transaction 15,60,Category 9,Random notes
+19-Sep-18,Account 1,Transaction 18,-368,Category 2,
+02-Apr-18,Account 2,Transaction 14,90,Category 5,Random notes
+30-Nov-18,Account 4,Transaction 18,399,Category 10,Random notes
+20-Jan-18,Account 4,Transaction 17,358,Category 8,Random notes
+27-May-18,Account 4,Transaction 12,-178,Category 6,
+28-Dec-18,Account 1,Transaction 15,159,Category 6,
+22-Jun-18,Account 1,Transaction 20,-500,Category 8,
+08-Aug-18,Account 1,Transaction 13,-267,Category 6,
+08-Jul-18,Account 4,Transaction 1,252,Category 4,
+18-Oct-18,Account 1,Transaction 2,434,Category 10,
+10-Aug-18,Account 3,Transaction 14,316,Category 6,Random notes
+19-Apr-18,Account 2,Transaction 2,220,Category 4,
+11-Jul-18,Account 2,Transaction 6,-391,Category 8,Random notes
+21-Oct-18,Account 1,Transaction 19,-184,Category 10,
+10-May-18,Account 2,Transaction 18,-99,Category 2,
+22-Sep-18,Account 4,Transaction 20,-343,Category 5,
+27-Jun-18,Account 4,Transaction 18,136,Category 2,Random notes
+04-Dec-18,Account 4,Transaction 12,-216,Category 8,
+13-Mar-18,Account 1,Transaction 11,493,Category 3,Random notes
+28-Jul-18,Account 4,Transaction 2,99,Category 10,Random notes
+09-May-18,Account 4,Transaction 2,-305,Category 2,Random notes
+28-Mar-18,Account 3,Transaction 12,425,Category 2,
+13-Dec-18,Account 2,Transaction 16,-81,Category 3,
+27-Dec-18,Account 2,Transaction 16,75,Category 7,
+12-Mar-18,Account 4,Transaction 7,-270,Category 4,
+01-Mar-18,Account 1,Transaction 4,-343,Category 2,
+27-Feb-18,Account 2,Transaction 13,300,Category 1,
+13-Feb-18,Account 2,Transaction 11,345,Category 10,
+21-Jun-18,Account 4,Transaction 14,-352,Category 5,
+10-Jan-18,Account 3,Transaction 7,355,Category 5,
+30-Jun-18,Account 1,Transaction 16,-485,Category 7,
+09-May-18,Account 2,Transaction 17,58,Category 9,
+15-Aug-18,Account 2,Transaction 14,290,Category 5,
+13-Apr-18,Account 1,Transaction 4,259,Category 6,
+22-Jan-18,Account 2,Transaction 12,45,Category 4,
+01-Mar-18,Account 2,Transaction 8,-461,Category 10,
+15-Sep-17,Account 3,Transaction 18,375,Category 4,Random notes
+08-Sep-18,Account 3,Transaction 20,156,Category 3,
+15-Aug-17,Account 2,Transaction 5,435,Category 4,
+09-Mar-18,Account 3,Transaction 10,8,Category 10,
+09-Jan-18,Account 1,Transaction 18,245,Category 6,
+19-Dec-18,Account 1,Transaction 16,-240,Category 4,Random notes
+22-Aug-18,Account 2,Transaction 14,27,Category 7,
+24-May-18,Account 3,Transaction 2,-335,Category 4,
+12-May-17,Account 3,Transaction 3,-222,Category 4,
+13-Jan-18,Account 3,Transaction 11,143,Category 10,Random notes
+21-May-18,Account 3,Transaction 3,-372,Category 9,Random notes
+05-Jun-18,Account 3,Transaction 2,-493,Category 4,
+31-Jan-18,Account 4,Transaction 14,81,Category 3,
+10-Jan-18,Account 3,Transaction 7,329,Category 5,
+30-Jun-18,Account 1,Transaction 11,443,Category 9,
+28-Oct-18,Account 2,Transaction 15,99,Category 8,
+07-Mar-18,Account 1,Transaction 4,443,Category 9,
+06-Mar-18,Account 3,Transaction 19,-105,Category 5,Random notes
+24-Sep-18,Account 2,Transaction 8,-65,Category 4,
+31-Aug-18,Account 2,Transaction 9,335,Category 9,
+24-Jan-18,Account 2,Transaction 10,66,Category 3,Random notes
+25-Apr-18,Account 1,Transaction 3,16,Category 5,
+08-Jan-18,Account 3,Transaction 3,299,Category 4,
+14-Dec-18,Account 1,Transaction 14,-105,Category 3,
+02-Oct-18,Account 1,Transaction 14,295,Category 1,
+07-Mar-18,Account 3,Transaction 12,381,Category 4,
+23-Oct-18,Account 3,Transaction 6,-189,Category 8,Random notes
+07-Aug-18,Account 2,Transaction 2,-322,Category 6,
+14-Jul-18,Account 1,Transaction 18,394,Category 9,Random notes
+04-Apr-18,Account 1,Transaction 14,-123,Category 10,
+15-Jul-17,Account 1,Transaction 8,-293,Category 2,Random notes
+21-Jan-18,Account 1,Transaction 14,17,Category 3,
+11-Jul-17,Account 2,Transaction 2,448,Category 4,
+29-Mar-18,Account 2,Transaction 2,-283,Category 2,
+06-Jan-18,Account 4,Transaction 1,111,Category 8,
+17-Dec-18,Account 2,Transaction 10,-139,Category 4,Random notes
+18-Oct-18,Account 4,Transaction 9,-399,Category 3,Random notes
+26-Dec-18,Account 1,Transaction 11,-68,Category 3,
+12-Mar-18,Account 1,Transaction 17,222,Category 2,
+11-Jan-18,Account 2,Transaction 6,441,Category 2,
+03-Jul-18,Account 1,Transaction 13,-304,Category 4,Random notes
+21-Sep-18,Account 2,Transaction 16,-198,Category 4,
+07-Dec-18,Account 4,Transaction 10,198,Category 7,
+07-Jul-18,Account 2,Transaction 17,125,Category 4,Random notes
+14-Sep-18,Account 1,Transaction 18,309,Category 8,Random notes
+13-Aug-18,Account 3,Transaction 20,-174,Category 2,
+17-Feb-18,Account 1,Transaction 8,105,Category 5,
+27-Oct-18,Account 3,Transaction 3,318,Category 1,
+27-Jun-18,Account 4,Transaction 5,351,Category 8,
+01-Dec-18,Account 1,Transaction 17,285,Category 2,
+23-Nov-18,Account 3,Transaction 12,-96,Category 4,
+05-Jan-18,Account 4,Transaction 20,271,Category 3,Random notes
+03-Jun-17,Account 1,Transaction 11,-354,Category 2,
+25-Mar-18,Account 3,Transaction 7,311,Category 10,
+24-Jan-18,Account 2,Transaction 13,-335,Category 4,
+02-Jun-18,Account 2,Transaction 5,-391,Category 5,Random notes
+18-Mar-18,Account 2,Transaction 6,389,Category 8,Random notes
+30-Jun-18,Account 2,Transaction 16,-357,Category 2,
+13-Jun-18,Account 2,Transaction 2,103,Category 6,
+11-Aug-18,Account 1,Transaction 5,218,Category 1,
+20-Jul-18,Account 3,Transaction 9,-76,Category 2,
+25-Aug-18,Account 1,Transaction 13,-94,Category 5,
+11-May-18,Account 4,Transaction 4,77,Category 10,
+04-Jul-18,Account 4,Transaction 17,-116,Category 3,
+14-Dec-18,Account 3,Transaction 3,114,Category 2,
+27-Jan-18,Account 3,Transaction 13,336,Category 7,Random notes
+01-Oct-18,Account 4,Transaction 3,-81,Category 8,
+20-Oct-18,Account 4,Transaction 5,-245,Category 9,Random notes
+14-Jul-18,Account 2,Transaction 11,398,Category 9,Random notes
+17-Sep-18,Account 4,Transaction 1,353,Category 6,
+13-Feb-18,Account 2,Transaction 7,297,Category 3,
+29-May-18,Account 3,Transaction 6,184,Category 8,
+23-Dec-18,Account 3,Transaction 9,-215,Category 9,
+01-Aug-18,Account 1,Transaction 20,272,Category 5,Random notes
+26-Sep-18,Account 4,Transaction 11,-154,Category 6,
+03-Mar-18,Account 1,Transaction 19,77,Category 4,
+21-Apr-18,Account 1,Transaction 14,192,Category 10,Random notes
+27-Apr-18,Account 2,Transaction 20,-273,Category 6,
+12-Dec-18,Account 4,Transaction 1,7,Category 3,
+16-Oct-18,Account 4,Transaction 10,155,Category 4,
+26-Mar-18,Account 1,Transaction 15,-67,Category 8,
+14-Oct-18,Account 3,Transaction 2,96,Category 2,
+30-Jan-18,Account 1,Transaction 3,287,Category 9,
+01-Sep-18,Account 3,Transaction 17,-135,Category 9,
+08-Jul-18,Account 4,Transaction 12,-263,Category 7,
+01-Oct-18,Account 3,Transaction 8,319,Category 9,Random notes
+06-Aug-18,Account 3,Transaction 3,-298,Category 10,
+03-Nov-18,Account 2,Transaction 18,-145,Category 2,Random notes
+01-Oct-18,Account 2,Transaction 18,299,Category 8,
+04-Sep-18,Account 2,Transaction 3,5,Category 10,Random notes
+17-Dec-18,Account 1,Transaction 16,286,Category 8,Random notes
+24-Jun-18,Account 4,Transaction 10,-12,Category 6,
+14-Oct-18,Account 3,Transaction 4,277,Category 4,Random notes
+30-Jun-17,Account 2,Transaction 11,-349,Category 2,Random notes
+09-Feb-18,Account 1,Transaction 11,323,Category 5,Random notes
+27-Mar-18,Account 2,Transaction 12,-79,Category 3,Random notes
+05-Jul-18,Account 4,Transaction 5,-378,Category 4,Random notes
+13-Dec-18,Account 4,Transaction 11,117,Category 6,
+01-Dec-18,Account 2,Transaction 8,484,Category 4,Random notes
+22-Jul-17,Account 3,Transaction 10,117,Category 6,
+22-Aug-18,Account 4,Transaction 2,294,Category 8,
+03-Aug-18,Account 3,Transaction 10,240,Category 6,Random notes
+25-Jun-18,Account 3,Transaction 1,90,Category 4,
+27-Jul-17,Account 3,Transaction 4,19,Category 3,
+12-Dec-18,Account 2,Transaction 15,-270,Category 10,Random notes
+22-Jul-18,Account 3,Transaction 19,-407,Category 10,
+20-Aug-18,Account 3,Transaction 19,-450,Category 7,
+07-Dec-18,Account 4,Transaction 2,-198,Category 1,
+23-Mar-18,Account 1,Transaction 5,-66,Category 1,
+15-Oct-18,Account 3,Transaction 18,-35,Category 4,
+26-Jan-18,Account 3,Transaction 7,421,Category 8,
+07-Aug-18,Account 1,Transaction 3,-251,Category 8,Random notes
+10-Dec-18,Account 4,Transaction 11,-372,Category 2,Random notes
+07-Jul-18,Account 3,Transaction 4,39,Category 6,
+09-Jan-18,Account 3,Transaction 7,-381,Category 6,
+13-Apr-18,Account 1,Transaction 20,-179,Category 4,Random notes
+07-Jun-18,Account 1,Transaction 10,-240,Category 1,
+24-Oct-18,Account 1,Transaction 14,174,Category 5,
+04-Feb-18,Account 3,Transaction 16,76,Category 2,
+01-Oct-18,Account 3,Transaction 11,442,Category 7,
+18-Jun-18,Account 2,Transaction 5,-447,Category 4,Random notes
+14-May-18,Account 3,Transaction 16,-113,Category 2,
+25-Jul-18,Account 1,Transaction 14,496,Category 5,
+12-Aug-18,Account 1,Transaction 10,-166,Category 7,Random notes
+23-Apr-18,Account 3,Transaction 2,408,Category 3,
+29-Jan-18,Account 4,Transaction 2,-146,Category 3,Random notes
+14-Aug-18,Account 2,Transaction 8,-64,Category 4,Random notes
+23-Feb-18,Account 2,Transaction 3,-491,Category 5,
+14-Mar-17,Account 4,Transaction 7,205,Category 6,Random notes
+21-Mar-18,Account 3,Transaction 9,-219,Category 10,
+26-Jun-18,Account 1,Transaction 3,-337,Category 7,Random notes
+07-Oct-18,Account 4,Transaction 5,-337,Category 6,Random notes
+04-Apr-18,Account 1,Transaction 12,-6,Category 9,
+12-Jul-18,Account 3,Transaction 15,-477,Category 2,
+12-Jan-18,Account 2,Transaction 14,47,Category 5,
+12-Apr-18,Account 1,Transaction 18,284,Category 7,
+17-Oct-18,Account 3,Transaction 3,-409,Category 5,
+10-Mar-17,Account 2,Transaction 12,176,Category 9,Random notes
+08-Jun-18,Account 2,Transaction 6,344,Category 2,Random notes
+17-Mar-18,Account 3,Transaction 9,-260,Category 5,
+23-Apr-18,Account 2,Transaction 14,345,Category 10,
+06-Aug-18,Account 3,Transaction 4,-326,Category 9,
+09-Jul-18,Account 1,Transaction 7,-168,Category 7,
+09-Sep-18,Account 2,Transaction 1,-481,Category 7,
+24-Jan-18,Account 1,Transaction 17,222,Category 6,
+16-Sep-18,Account 1,Transaction 9,-345,Category 6,
+05-Aug-18,Account 1,Transaction 7,146,Category 7,
+24-May-18,Account 3,Transaction 12,-487,Category 9,Random notes
+04-Mar-18,Account 1,Transaction 17,379,Category 2,
+26-Jan-17,Account 3,Transaction 15,-106,Category 1,
+10-Jul-18,Account 1,Transaction 11,-389,Category 8,
+12-Aug-18,Account 4,Transaction 13,-17,Category 4,Random notes
+14-May-18,Account 4,Transaction 18,-415,Category 6,
+21-Jan-18,Account 2,Transaction 16,-298,Category 3,
+19-Apr-18,Account 1,Transaction 6,55,Category 4,Random notes
+13-Dec-18,Account 2,Transaction 20,-111,Category 9,
+13-Jun-18,Account 2,Transaction 20,233,Category 5,
+12-Feb-18,Account 4,Transaction 6,31,Category 6,Random notes
+19-Dec-18,Account 2,Transaction 3,-170,Category 7,
+29-Sep-18,Account 2,Transaction 6,-197,Category 8,
+13-Mar-18,Account 4,Transaction 17,124,Category 1,
+21-Sep-18,Account 4,Transaction 9,-93,Category 1,
+02-Oct-18,Account 1,Transaction 20,-194,Category 5,Random notes
+27-Aug-18,Account 4,Transaction 1,-22,Category 6,Random notes
+28-Oct-18,Account 4,Transaction 20,-45,Category 4,
+23-Sep-18,Account 4,Transaction 5,7,Category 1,
+30-Dec-17,Account 2,Transaction 5,-371,Category 9,Random notes
+17-Apr-18,Account 1,Transaction 1,-487,Category 10,Random notes
+28-May-18,Account 2,Transaction 15,168,Category 3,
+13-Apr-18,Account 2,Transaction 10,-144,Category 6,
+17-Oct-18,Account 2,Transaction 18,-115,Category 6,
+27-Jul-18,Account 1,Transaction 5,-278,Category 8,Random notes
+04-Dec-18,Account 3,Transaction 18,-145,Category 5,
+04-Feb-18,Account 2,Transaction 6,152,Category 3,Random notes
+05-Oct-18,Account 4,Transaction 2,-333,Category 5,
+09-Apr-18,Account 3,Transaction 4,-40,Category 3,
+03-Jan-18,Account 4,Transaction 14,-472,Category 6,
+13-Feb-18,Account 2,Transaction 2,185,Category 3,Random notes
+29-Nov-18,Account 2,Transaction 4,-302,Category 5,Random notes
+05-Feb-18,Account 3,Transaction 5,190,Category 1,
+16-Feb-18,Account 2,Transaction 15,-170,Category 9,
+03-Jul-18,Account 1,Transaction 3,165,Category 1,
+10-Dec-18,Account 1,Transaction 2,324,Category 4,Random notes
+03-Jan-18,Account 3,Transaction 7,496,Category 4,Random notes
+26-Nov-18,Account 3,Transaction 16,-284,Category 1,Random notes
+10-Apr-18,Account 1,Transaction 8,-460,Category 4,Random notes
+22-Aug-18,Account 3,Transaction 19,-337,Category 8,
+17-Aug-18,Account 1,Transaction 11,-406,Category 5,
+07-Nov-18,Account 2,Transaction 4,268,Category 7,Random notes
+23-Dec-18,Account 1,Transaction 8,66,Category 9,
+04-Sep-18,Account 1,Transaction 19,-312,Category 8,
+25-May-18,Account 1,Transaction 8,149,Category 5,Random notes
+08-Feb-18,Account 4,Transaction 12,-24,Category 3,
+23-Jun-18,Account 4,Transaction 7,431,Category 3,Random notes
+22-Mar-18,Account 4,Transaction 14,258,Category 4,
+02-Feb-18,Account 3,Transaction 17,335,Category 5,Random notes
+19-Nov-18,Account 3,Transaction 18,342,Category 1,
+12-Mar-18,Account 1,Transaction 14,-237,Category 9,
+17-Apr-18,Account 1,Transaction 6,-23,Category 1,
+29-May-18,Account 3,Transaction 20,-326,Category 5,
+14-Dec-18,Account 4,Transaction 8,-385,Category 6,
+14-Jun-18,Account 3,Transaction 13,212,Category 8,
+18-Aug-18,Account 3,Transaction 6,275,Category 9,Random notes
+12-Jun-18,Account 1,Transaction 12,-388,Category 6,
+17-Oct-18,Account 3,Transaction 8,-209,Category 4,
+19-Mar-18,Account 1,Transaction 14,78,Category 4,
+28-Oct-18,Account 1,Transaction 10,268,Category 4,
+03-May-18,Account 1,Transaction 15,-315,Category 10,
+28-Jun-18,Account 2,Transaction 11,316,Category 5,Random notes
+14-Nov-18,Account 3,Transaction 10,-305,Category 3,Random notes
+03-Dec-18,Account 3,Transaction 12,-176,Category 10,
+23-Jun-18,Account 1,Transaction 17,420,Category 2,
+10-Sep-18,Account 3,Transaction 7,-492,Category 5,Random notes
+01-May-18,Account 4,Transaction 12,361,Category 7,
+14-Apr-18,Account 2,Transaction 4,-295,Category 10,Random notes
+17-Jun-18,Account 1,Transaction 6,263,Category 1,Random notes
+15-May-18,Account 2,Transaction 5,400,Category 1,
+09-Jan-18,Account 4,Transaction 10,104,Category 2,
+28-Aug-18,Account 4,Transaction 11,-160,Category 3,
+19-Aug-18,Account 3,Transaction 19,-44,Category 8,
+10-Jan-18,Account 3,Transaction 15,-473,Category 4,
+03-Nov-18,Account 4,Transaction 15,49,Category 1,Random notes
+04-Sep-18,Account 2,Transaction 3,-436,Category 5,Random notes
+28-May-18,Account 2,Transaction 20,-249,Category 3,Random notes
+26-May-18,Account 3,Transaction 1,244,Category 7,
+23-Jun-18,Account 2,Transaction 17,389,Category 9,
+17-Mar-18,Account 4,Transaction 8,115,Category 1,
+07-Nov-18,Account 1,Transaction 9,-227,Category 4,Random notes
+21-Apr-18,Account 1,Transaction 15,236,Category 4,
+16-Aug-18,Account 3,Transaction 15,-211,Category 8,
+24-Aug-18,Account 4,Transaction 1,-182,Category 9,
+15-Jul-18,Account 4,Transaction 4,-359,Category 9,
+19-Jun-18,Account 4,Transaction 4,307,Category 1,Random notes
+31-Oct-18,Account 4,Transaction 13,118,Category 8,
+24-Oct-18,Account 3,Transaction 10,122,Category 1,Random notes
+25-Mar-18,Account 1,Transaction 2,190,Category 3,
+06-Jun-18,Account 1,Transaction 17,-106,Category 6,Random notes
+08-May-18,Account 2,Transaction 14,-24,Category 1,Random notes
+25-Dec-18,Account 4,Transaction 6,109,Category 1,Random notes
+26-Jan-18,Account 4,Transaction 16,-279,Category 7,Random notes
+08-Jun-18,Account 3,Transaction 1,480,Category 6,Random notes
+19-Mar-18,Account 4,Transaction 12,447,Category 9,
+08-Dec-18,Account 1,Transaction 13,168,Category 8,Random notes
+01-Feb-17,Account 2,Transaction 12,-207,Category 8,
+21-Dec-17,Account 1,Transaction 19,-201,Category 3,
+16-Apr-18,Account 2,Transaction 6,-172,Category 1,Random notes
+03-May-17,Account 4,Transaction 1,261,Category 5,
+27-Dec-18,Account 3,Transaction 11,-66,Category 10,
+11-Aug-18,Account 2,Transaction 2,-292,Category 3,
+14-Sep-18,Account 4,Transaction 5,-106,Category 1,
+06-Jan-18,Account 2,Transaction 19,-384,Category 1,Random notes
+18-Mar-18,Account 3,Transaction 20,62,Category 10,Random notes
+25-Jun-18,Account 3,Transaction 12,-328,Category 5,
+12-Sep-18,Account 3,Transaction 13,370,Category 5,
+21-Apr-18,Account 2,Transaction 3,-274,Category 1,Random notes
+13-Apr-18,Account 3,Transaction 10,-404,Category 7,
+28-Jun-18,Account 3,Transaction 16,95,Category 3,Random notes
+21-Dec-17,Account 4,Transaction 1,-77,Category 4,
+16-Dec-18,Account 3,Transaction 18,228,Category 5,
+05-Jun-18,Account 4,Transaction 4,424,Category 5,
+02-May-18,Account 3,Transaction 16,95,Category 4,Random notes
+03-Nov-18,Account 1,Transaction 14,-86,Category 6,
+26-May-18,Account 3,Transaction 6,-368,Category 1,Random notes
+29-Mar-18,Account 3,Transaction 11,-70,Category 10,
+23-Jun-18,Account 4,Transaction 6,-51,Category 7,
+23-Dec-18,Account 4,Transaction 3,-444,Category 7,
+29-Jul-18,Account 4,Transaction 16,-134,Category 3,
+24-Mar-17,Account 4,Transaction 16,291,Category 2,Random notes
+11-Dec-18,Account 2,Transaction 18,89,Category 9,Random notes
+06-Oct-18,Account 3,Transaction 20,-65,Category 6,
+13-May-18,Account 1,Transaction 15,281,Category 10,
+20-Jul-18,Account 4,Transaction 1,55,Category 5,
+14-Jul-18,Account 1,Transaction 3,476,Category 2,Random notes
+15-Jan-18,Account 4,Transaction 7,-482,Category 5,
+03-Jul-18,Account 2,Transaction 18,102,Category 4,
+10-May-18,Account 2,Transaction 3,-124,Category 6,
+19-Dec-17,Account 4,Transaction 5,160,Category 5,Random notes
+06-Aug-18,Account 3,Transaction 9,416,Category 5,
+24-Oct-18,Account 1,Transaction 18,295,Category 6,
+09-Dec-18,Account 2,Transaction 13,-113,Category 7,
+03-May-18,Account 2,Transaction 1,73,Category 8,Random notes
+08-Nov-17,Account 2,Transaction 7,-361,Category 1,
+25-Mar-17,Account 2,Transaction 1,477,Category 4,Random notes
+14-Nov-18,Account 1,Transaction 9,-158,Category 4,
+04-Jul-18,Account 2,Transaction 6,400,Category 4,
+13-Jun-18,Account 2,Transaction 4,56,Category 1,
+21-Jul-17,Account 2,Transaction 7,-237,Category 10,
+01-May-18,Account 4,Transaction 2,-384,Category 9,Random notes
+27-Jun-18,Account 1,Transaction 6,439,Category 7,
+05-Jan-18,Account 1,Transaction 6,-480,Category 2,
+02-Aug-18,Account 2,Transaction 10,460,Category 1,
+16-Jun-18,Account 1,Transaction 16,84,Category 6,
+13-Jul-18,Account 2,Transaction 13,462,Category 3,
+13-Mar-18,Account 4,Transaction 1,-53,Category 4,
+10-Dec-18,Account 1,Transaction 17,59,Category 5,Random notes
+03-Mar-18,Account 4,Transaction 7,-319,Category 7,
+29-Aug-18,Account 4,Transaction 18,-54,Category 8,
+15-Feb-17,Account 4,Transaction 6,-322,Category 9,
+09-Oct-18,Account 2,Transaction 18,339,Category 3,Random notes
+29-Aug-18,Account 4,Transaction 2,193,Category 4,Random notes
+07-May-18,Account 3,Transaction 11,-493,Category 9,Random notes
+23-Feb-18,Account 2,Transaction 15,-429,Category 4,
+10-Oct-18,Account 3,Transaction 20,206,Category 7,Random notes
+04-Apr-17,Account 2,Transaction 1,420,Category 3,
+19-Jun-18,Account 4,Transaction 10,-10,Category 3,
+23-May-18,Account 1,Transaction 19,-320,Category 2,Random notes
+06-Mar-18,Account 2,Transaction 12,-398,Category 4,Random notes
+24-Dec-18,Account 1,Transaction 5,404,Category 2,
+19-Jan-18,Account 2,Transaction 18,455,Category 6,
+07-Jun-18,Account 3,Transaction 20,245,Category 10,Random notes
+08-Aug-18,Account 4,Transaction 5,-50,Category 9,Random notes
+21-Dec-18,Account 3,Transaction 1,-168,Category 7,
+10-Aug-18,Account 1,Transaction 10,274,Category 5,
+02-Aug-18,Account 4,Transaction 17,-12,Category 9,Random notes
+11-Aug-18,Account 4,Transaction 9,-446,Category 3,
+21-Jul-18,Account 1,Transaction 12,82,Category 7,Random notes
+20-Jun-17,Account 2,Transaction 12,92,Category 2,Random notes
+06-Aug-18,Account 1,Transaction 9,366,Category 2,Random notes
+25-Oct-18,Account 2,Transaction 10,-73,Category 6,
+14-Apr-18,Account 1,Transaction 1,111,Category 8,
+28-Mar-18,Account 2,Transaction 16,224,Category 1,Random notes
+15-Jan-18,Account 4,Transaction 4,-489,Category 6,
+11-Feb-18,Account 4,Transaction 16,185,Category 7,
+25-Jun-18,Account 1,Transaction 7,43,Category 8,Random notes
+30-May-18,Account 4,Transaction 11,-84,Category 6,
+06-Oct-18,Account 3,Transaction 13,83,Category 6,
+21-Mar-18,Account 2,Transaction 3,-439,Category 10,
+30-Jun-17,Account 2,Transaction 5,-113,Category 5,
+07-Aug-18,Account 3,Transaction 15,13,Category 8,Random notes
+18-Mar-18,Account 1,Transaction 13,109,Category 1,Random notes
+25-Sep-18,Account 2,Transaction 19,-419,Category 5,Random notes
+10-Nov-18,Account 2,Transaction 16,255,Category 10,
+31-Aug-18,Account 2,Transaction 11,-241,Category 5,Random notes
+29-May-18,Account 1,Transaction 16,245,Category 2,
+22-Apr-18,Account 2,Transaction 4,-387,Category 1,
+26-Apr-18,Account 2,Transaction 6,348,Category 3,Random notes
+07-Jun-18,Account 4,Transaction 1,-128,Category 6,
+28-May-18,Account 2,Transaction 16,-487,Category 10,Random notes
+12-Mar-18,Account 3,Transaction 5,386,Category 9,
+21-Jul-17,Account 1,Transaction 5,-263,Category 5,Random notes
+01-Apr-18,Account 1,Transaction 4,-464,Category 1,
+27-Aug-18,Account 1,Transaction 19,-254,Category 2,
+26-Mar-18,Account 4,Transaction 18,488,Category 4,Random notes
+09-Oct-18,Account 4,Transaction 17,-333,Category 3,Random notes
+06-Jun-18,Account 3,Transaction 6,-323,Category 9,
+15-Oct-18,Account 3,Transaction 2,436,Category 2,
+01-Jul-18,Account 4,Transaction 12,70,Category 4,Random notes
+11-Jun-18,Account 3,Transaction 14,-313,Category 6,
+12-Jan-18,Account 4,Transaction 16,-288,Category 3,Random notes
+23-Mar-18,Account 4,Transaction 14,-373,Category 8,Random notes
+19-Sep-18,Account 3,Transaction 1,-269,Category 10,
+06-Jul-18,Account 3,Transaction 2,416,Category 10,Random notes
+27-Apr-18,Account 4,Transaction 13,-7,Category 10,Random notes
+12-Dec-17,Account 3,Transaction 19,-179,Category 4,
+06-Aug-18,Account 2,Transaction 20,51,Category 4,
+04-Jan-17,Account 3,Transaction 17,156,Category 6,
+16-Oct-18,Account 4,Transaction 17,293,Category 4,
+19-Mar-18,Account 1,Transaction 12,-446,Category 7,
+14-Aug-18,Account 4,Transaction 18,337,Category 3,
+22-Dec-18,Account 1,Transaction 7,-121,Category 7,
+05-Feb-18,Account 2,Transaction 7,41,Category 9,Random notes
+13-Oct-18,Account 3,Transaction 6,-488,Category 5,
+30-Jun-18,Account 2,Transaction 3,-82,Category 10,Random notes
+14-Jun-18,Account 1,Transaction 19,-195,Category 7,
+07-Jul-17,Account 3,Transaction 1,447,Category 8,
+12-Jul-18,Account 2,Transaction 6,-475,Category 1,
+08-Jul-17,Account 2,Transaction 10,-233,Category 7,
+07-Sep-18,Account 1,Transaction 5,459,Category 9,Random notes
+07-Aug-18,Account 3,Transaction 17,308,Category 1,
+03-Mar-18,Account 1,Transaction 20,-216,Category 9,Random notes
+01-May-17,Account 2,Transaction 12,282,Category 1,Random notes
+06-Oct-18,Account 2,Transaction 10,-443,Category 4,Random notes
+11-Sep-17,Account 4,Transaction 20,81,Category 9,
+10-Sep-18,Account 4,Transaction 11,-67,Category 4,
+17-Jul-18,Account 4,Transaction 6,-171,Category 7,
+11-Mar-18,Account 1,Transaction 12,-414,Category 8,Random notes
+22-Aug-18,Account 2,Transaction 17,-271,Category 7,
+11-May-18,Account 1,Transaction 2,-486,Category 1,Random notes
+20-May-17,Account 1,Transaction 7,27,Category 3,
+10-Jun-18,Account 3,Transaction 14,192,Category 4,Random notes
+11-Jan-18,Account 3,Transaction 19,-50,Category 2,Random notes
+22-Jun-18,Account 2,Transaction 7,333,Category 3,Random notes
+11-Apr-18,Account 2,Transaction 3,-195,Category 6,
+12-Nov-18,Account 3,Transaction 5,-179,Category 5,
+22-May-17,Account 1,Transaction 13,-320,Category 6,
+11-Jan-18,Account 4,Transaction 16,-37,Category 10,
+26-May-18,Account 4,Transaction 5,-19,Category 7,
+13-Mar-18,Account 1,Transaction 17,171,Category 4,
+18-Sep-18,Account 1,Transaction 7,130,Category 3,
+11-Mar-18,Account 3,Transaction 2,-461,Category 8,
+25-Dec-18,Account 2,Transaction 9,476,Category 7,
+01-Jul-18,Account 2,Transaction 4,53,Category 4,
+21-Jun-18,Account 4,Transaction 19,212,Category 10,Random notes
+01-Jan-18,Account 4,Transaction 5,398,Category 6,Random notes
+02-Oct-18,Account 1,Transaction 10,268,Category 7,Random notes
+28-Aug-18,Account 3,Transaction 14,277,Category 1,Random notes
+23-Sep-18,Account 1,Transaction 10,-58,Category 7,
+13-Oct-18,Account 4,Transaction 8,-90,Category 9,Random notes
+11-Sep-18,Account 1,Transaction 9,-66,Category 5,
+06-Dec-18,Account 1,Transaction 14,5,Category 7,Random notes
+23-Sep-18,Account 2,Transaction 3,245,Category 10,
+18-Apr-18,Account 2,Transaction 19,63,Category 4,
+23-Oct-18,Account 1,Transaction 7,-133,Category 6,Random notes
+07-Apr-18,Account 1,Transaction 3,-177,Category 2,Random notes
+26-Jan-18,Account 4,Transaction 5,-332,Category 7,
+23-May-18,Account 2,Transaction 14,-67,Category 5,
+06-Mar-17,Account 1,Transaction 12,338,Category 7,Random notes
+12-Jun-17,Account 3,Transaction 8,437,Category 7,Random notes
+23-Jun-18,Account 4,Transaction 16,-313,Category 2,Random notes
+28-Apr-18,Account 4,Transaction 14,226,Category 10,
+03-Jul-18,Account 1,Transaction 20,153,Category 10,
+04-Mar-18,Account 1,Transaction 7,-476,Category 4,Random notes
+22-Mar-18,Account 2,Transaction 6,-385,Category 5,Random notes
+12-Aug-18,Account 2,Transaction 10,474,Category 1,
+04-Sep-18,Account 1,Transaction 11,-14,Category 6,Random notes
+23-Oct-18,Account 3,Transaction 12,-259,Category 5,Random notes
+31-Jan-18,Account 2,Transaction 17,-331,Category 8,
+18-Dec-18,Account 1,Transaction 20,284,Category 4,Random notes
+26-May-18,Account 1,Transaction 6,427,Category 7,
+14-Feb-18,Account 1,Transaction 3,303,Category 6,
+16-Aug-18,Account 4,Transaction 12,382,Category 8,
+26-Dec-18,Account 1,Transaction 15,307,Category 4,
+06-Oct-18,Account 1,Transaction 15,374,Category 4,
+22-Jul-18,Account 1,Transaction 20,-143,Category 9,
+02-Dec-18,Account 3,Transaction 13,8,Category 9,
+16-Sep-18,Account 4,Transaction 17,38,Category 7,Random notes
+31-Oct-18,Account 3,Transaction 7,182,Category 3,Random notes
+16-Aug-18,Account 1,Transaction 8,451,Category 1,Random notes
+19-Jun-17,Account 4,Transaction 11,458,Category 10,Random notes
+20-Jun-18,Account 3,Transaction 8,100,Category 3,
+16-Jun-18,Account 4,Transaction 8,404,Category 7,
+05-Mar-18,Account 3,Transaction 12,-209,Category 2,Random notes
+09-Jan-18,Account 2,Transaction 2,351,Category 6,
+17-Sep-18,Account 1,Transaction 16,-234,Category 2,
+11-Apr-18,Account 4,Transaction 11,43,Category 9,
+01-Oct-18,Account 1,Transaction 12,46,Category 5,
+08-May-18,Account 3,Transaction 10,-438,Category 7,
+07-Oct-18,Account 4,Transaction 20,-143,Category 3,
+01-Feb-17,Account 3,Transaction 18,-195,Category 4,
+09-Dec-18,Account 2,Transaction 18,220,Category 9,Random notes
+14-Mar-18,Account 2,Transaction 13,202,Category 2,
+04-Feb-18,Account 3,Transaction 1,305,Category 3,
+16-Oct-18,Account 4,Transaction 20,291,Category 6,
+11-Sep-18,Account 4,Transaction 15,338,Category 6,
+18-Oct-18,Account 2,Transaction 18,266,Category 8,Random notes
+07-Nov-17,Account 2,Transaction 4,-301,Category 7,
+22-Jun-18,Account 3,Transaction 13,-178,Category 2,
+03-Jan-18,Account 1,Transaction 12,487,Category 7,Random notes
+26-May-18,Account 4,Transaction 4,-3,Category 6,
+20-Dec-18,Account 2,Transaction 7,-220,Category 10,
+06-Sep-18,Account 2,Transaction 1,187,Category 4,
+02-Jul-17,Account 2,Transaction 2,478,Category 6,
+14-May-18,Account 4,Transaction 17,152,Category 9,
+20-Jan-18,Account 1,Transaction 17,69,Category 2,
+19-May-17,Account 3,Transaction 11,289,Category 9,
+19-Jun-18,Account 2,Transaction 17,-449,Category 6,
+03-May-18,Account 4,Transaction 2,259,Category 1,Random notes
+24-Jan-18,Account 1,Transaction 4,-288,Category 10,
+25-Oct-18,Account 1,Transaction 3,-126,Category 9,
+26-Dec-18,Account 4,Transaction 1,-92,Category 4,Random notes
+05-Aug-18,Account 4,Transaction 15,-272,Category 6,
+31-Jul-18,Account 1,Transaction 5,-338,Category 2,
+07-Sep-17,Account 2,Transaction 17,110,Category 5,Random notes
+09-Jan-18,Account 4,Transaction 9,-203,Category 1,Random notes
+17-Apr-18,Account 4,Transaction 13,379,Category 1,
+12-Aug-18,Account 1,Transaction 10,489,Category 10,Random notes
+10-Dec-18,Account 1,Transaction 1,-187,Category 2,
+25-Sep-18,Account 1,Transaction 20,-427,Category 9,
+27-Apr-17,Account 2,Transaction 6,491,Category 6,Random notes
+11-Oct-18,Account 2,Transaction 6,485,Category 9,
+05-Dec-18,Account 2,Transaction 8,-465,Category 6,
+01-Jul-18,Account 4,Transaction 19,416,Category 10,
+26-Aug-18,Account 4,Transaction 12,48,Category 2,Random notes
+21-Jul-18,Account 4,Transaction 20,217,Category 8,Random notes
+25-Oct-18,Account 3,Transaction 8,-459,Category 4,
+21-Mar-18,Account 1,Transaction 4,375,Category 2,
+11-Apr-18,Account 2,Transaction 20,195,Category 7,
+08-Jul-18,Account 4,Transaction 9,356,Category 9,Random notes
+26-Mar-18,Account 2,Transaction 15,-43,Category 10,Random notes
+20-May-18,Account 3,Transaction 4,6,Category 7,Random notes
+15-Jan-18,Account 1,Transaction 19,251,Category 9,Random notes
+16-Jul-18,Account 1,Transaction 14,404,Category 8,Random notes
+27-May-18,Account 4,Transaction 8,-24,Category 1,Random notes
+07-May-18,Account 2,Transaction 18,148,Category 9,Random notes
+09-Sep-18,Account 4,Transaction 5,-133,Category 6,Random notes
+15-Jul-18,Account 1,Transaction 3,-53,Category 10,
+21-Jun-18,Account 4,Transaction 3,97,Category 3,Random notes
+15-Mar-18,Account 3,Transaction 10,301,Category 6,
+19-Aug-18,Account 4,Transaction 3,-9,Category 7,
+19-Jan-18,Account 3,Transaction 19,173,Category 3,
+02-Mar-18,Account 1,Transaction 12,-235,Category 7,
+04-May-18,Account 3,Transaction 17,-331,Category 6,Random notes
+14-Sep-18,Account 4,Transaction 11,364,Category 2,
+25-May-18,Account 1,Transaction 10,-332,Category 1,
+05-Sep-17,Account 4,Transaction 4,-298,Category 8,Random notes
+02-Dec-18,Account 4,Transaction 2,150,Category 3,
+14-Jan-18,Account 3,Transaction 13,199,Category 5,
+04-Feb-18,Account 4,Transaction 20,-20,Category 4,
+04-Sep-18,Account 2,Transaction 13,418,Category 5,
+30-Apr-18,Account 1,Transaction 15,465,Category 4,
+22-Sep-18,Account 1,Transaction 5,-471,Category 4,
+13-Apr-18,Account 4,Transaction 6,4,Category 4,
+13-Mar-17,Account 2,Transaction 15,108,Category 2,
+12-Jun-18,Account 3,Transaction 4,162,Category 8,Random notes
+30-Jun-18,Account 4,Transaction 9,467,Category 9,
+02-Aug-18,Account 2,Transaction 15,22,Category 9,Random notes
+01-Dec-18,Account 2,Transaction 5,201,Category 10,
+01-Jul-18,Account 1,Transaction 19,449,Category 3,
+12-Nov-18,Account 2,Transaction 5,250,Category 9,Random notes
+30-Jan-18,Account 1,Transaction 16,122,Category 7,Random notes
+26-Dec-18,Account 2,Transaction 13,282,Category 3,Random notes
+12-Jul-17,Account 3,Transaction 2,-349,Category 7,
+27-May-18,Account 3,Transaction 15,-445,Category 6,
+23-Aug-18,Account 2,Transaction 11,-190,Category 1,Random notes
+07-Jul-18,Account 1,Transaction 6,47,Category 2,
+28-Jul-18,Account 2,Transaction 3,-350,Category 2,
+13-Mar-18,Account 2,Transaction 15,-42,Category 8,
+12-May-18,Account 1,Transaction 17,-167,Category 2,
+14-Jun-18,Account 3,Transaction 8,207,Category 4,
+16-Jan-18,Account 2,Transaction 10,-221,Category 4,
+08-Oct-18,Account 1,Transaction 19,-150,Category 10,
